@@ -21,7 +21,8 @@ module.exports = {
     'sourceType': 'module'
   },
   'plugins': [
-    'react'
+    'react',
+    "jsx-a11y"
   ],
   'globals': {
   },
